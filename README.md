@@ -1,4 +1,4 @@
-# battery-blaster
+# super-battery-status
 
 ```
 ~ python -m venv venv
